@@ -39,7 +39,7 @@ materi_data = {
                     {"time": 48, "text": "Dan memandu untuk mengembangkan keterampilan mindfulness."}
             ]
             },
-            {"src": "assets/audio/sesi 1/1.2 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-2.JPG",
+            {"src": "assets/audio/sesi 1/1.2 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-2.jpg",
              "transkrip": [
                     {"time": 0, "text": "Halo, Aku Lisa"},
                     {"time": 3, "text": "Aku seorang mahasiswa di sebuah perguruan tinggi di ibukota."},
@@ -60,7 +60,7 @@ materi_data = {
                     {"time": 41, "text": "Dan di sini aku ingin membagi perjalananku berlatih mindfulness kepada kalian."}
             ]
              },
-            {"src": "assets/audio/sesi 1/1.3 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-3.JPG",
+            {"src": "assets/audio/sesi 1/1.3 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-3.jpg",
               "transkrip": [
                     {"time": 0, "text": "Dulu, aku hampir selalu cemas."},
                     {"time": 3, "text": "Terutama saat tugas-tugas perkuliahan menumpuk"},
@@ -73,7 +73,7 @@ materi_data = {
                     {"time": 25, "text": "Dan ini membuatku semakin tertekan."}
             ]
             },
-            {"src": "assets/audio/sesi 1/1.4 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-4.JPG",
+            {"src": "assets/audio/sesi 1/1.4 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-4.jpg",
              "transkrip": [
                     {"time": 0, "text": "Waktu sering kali berlalu dengan begitu saja.."},
                     {"time": 4, "text": "aku pun tidak dapat berkonsentrasi dan sering merasa tidak berguna.."},
@@ -85,7 +85,7 @@ materi_data = {
                     {"time": 30, "text": "Aku merasa diriku buruk."}
             ]
             },
-            {"src": "assets/audio/sesi 1/1.5 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-5.JPG",
+            {"src": "assets/audio/sesi 1/1.5 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-5.jpg",
              "transkrip": [
                     {"time": 0, "text": "Suatu hari, saat kami pulang bersama setelah mengerjakan tugas"},
                     {"time": 4, "text": "Temanku Aisyah bertanya padaku"},
