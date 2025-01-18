@@ -22,10 +22,10 @@ materi_data = {
         "judul_audio2": "Audio Mindfulness Makan dengan Sadar",
         "audio2": "assets/audio panduan/Psidamai 1. Mindful Eating.mp3",
         "audio": [
-            {"src": "assets/audio/sesi 1/1.1 Damai.mp3", "image": "assets/img/ilustrasi/sesi-1/Session 1.1.jpg", 
+            {"src": "assets/audio/sesi 1/1.1 Damai.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-1.jpg", 
              "transkrip": [
                     {"time": 0, "text": "Hai, saya Damai"},
-                    {"time": 2, "text": "Selamat Datang dalam sesi pertama pengenalan Mindfullness untuk mahasiswa!"},
+                    {"time": 2, "text": "Selamat Datang dalam sesi pertama pengenalan Mindfulness untuk mahasiswa!"},
                     {"time": 6, "text": "Program ini bertujuan untuk mempelajari keterampilan mindfulness dalam kehidupan sehari-hari."},
                     {"time": 11, "text": "Khususnya bagi mahasiswa."},
                     {"time": 13, "text": "Di dalamnya terdapat materi yang bisa diselesaikan dalam waktu 4 pekan."},
@@ -39,7 +39,7 @@ materi_data = {
                     {"time": 48, "text": "Dan memandu untuk mengembangkan keterampilan mindfulness."}
             ]
             },
-            {"src": "assets/audio/sesi 1/1.2 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/Session 1.2.jpg",
+            {"src": "assets/audio/sesi 1/1.2 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-2.JPG",
              "transkrip": [
                     {"time": 0, "text": "Halo, Aku Lisa"},
                     {"time": 3, "text": "Aku seorang mahasiswa di sebuah perguruan tinggi di ibukota."},
@@ -60,7 +60,7 @@ materi_data = {
                     {"time": 41, "text": "Dan di sini aku ingin membagi perjalananku berlatih mindfulness kepada kalian."}
             ]
              },
-            {"src": "assets/audio/sesi 1/1.3 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/Session 1.3.jpg",
+            {"src": "assets/audio/sesi 1/1.3 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-3.JPG",
               "transkrip": [
                     {"time": 0, "text": "Dulu, aku hampir selalu cemas."},
                     {"time": 3, "text": "Terutama saat tugas-tugas perkuliahan menumpuk"},
@@ -73,7 +73,7 @@ materi_data = {
                     {"time": 25, "text": "Dan ini membuatku semakin tertekan."}
             ]
             },
-            {"src": "assets/audio/sesi 1/1.4 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/Session 1.4.jpg",
+            {"src": "assets/audio/sesi 1/1.4 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-4.JPG",
              "transkrip": [
                     {"time": 0, "text": "Waktu sering kali berlalu dengan begitu saja.."},
                     {"time": 4, "text": "aku pun tidak dapat berkonsentrasi dan sering merasa tidak berguna.."},
@@ -85,7 +85,7 @@ materi_data = {
                     {"time": 30, "text": "Aku merasa diriku buruk."}
             ]
             },
-            {"src": "assets/audio/sesi 1/1.5 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/Session 1.5.jpg",
+            {"src": "assets/audio/sesi 1/1.5 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-5.JPG",
              "transkrip": [
                     {"time": 0, "text": "Suatu hari, saat kami pulang bersama setelah mengerjakan tugas"},
                     {"time": 4, "text": "Temanku Aisyah bertanya padaku"},
@@ -99,7 +99,7 @@ materi_data = {
                     {"time": 36, "text": "Untuk membantu aku mengatasi apa yang sedang aku rasakan."}
             ]
             },
-            {"src": "assets/audio/sesi 1/1.6 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/Session 1.6.jpg",
+            {"src": "assets/audio/sesi 1/1.6 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-6.JPG",
              "transkrip": [
                     {"time": 0, "text": "Awalnya aku masih ragu, tapi setelah mencari tahu lebih lanjut informasi mengenai mindfulness dari sosial media dan internet"},
                     {"time": 8, "text": "Aku jadi tertarik untuk mencobanya."},
@@ -125,7 +125,7 @@ materi_data = {
                     {"time": 101, "text": "Lebih menerima pengalaman, dan tidak reaktif terhadap hal itu"}
             ]
             },
-            {"src": "assets/audio/sesi 1/1.7 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/Session 1.7.jpg",
+            {"src": "assets/audio/sesi 1/1.7 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-7.JPG",
              "transkrip": [
                     {"time": 0, "text": "Pak Yudhis pun mengajarkan padaku salah satu latihan dasar untuk mindfulness yang disebut sebagai “Ruang nafas 3 menit”."},
                     {"time": 7, "text": "Ia mengajarkanku untuk duduk tenang,"},
@@ -166,7 +166,7 @@ materi_data = {
                     {"time": 138, "text": "Aku tahu ini tidak mudah tapi aku mau mencoba."}
             ]
             },
-            {"src": "assets/audio/sesi 1/1.8 Damai.mp3", "image": "assets/img/ilustrasi/sesi-1/Session 1.8.jpg",
+            {"src": "assets/audio/sesi 1/1.8 Damai.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-8.JPG",
              "transkrip": [
                     {"time": 0, "text": "Hai, kamu sudah bertemu dengan Lisa dan awal dari perjalanannya berlatih mindfulness."},
                     {"time": 6, "text": "Mari menelaah kembali poin penting dari pembelajaran pada sesi ini."},
@@ -215,7 +215,7 @@ materi_data = {
                     {"time": 161, "text": "Mindfulness membutuhkan latihan secara berkala untuk membantumu memberi perhatian pada kondisi di sini dan saat ini."}
             ]
             },
-            {"src": "assets/audio/sesi 1/1.9 Damai.mp3", "image": "assets/img/ilustrasi/sesi-1/Session 1.9.jpg",
+            {"src": "assets/audio/sesi 1/1.9 Damai.mp3", "image": "assets/img/ilustrasi/sesi-1/session1-9.JPG",
              "transkrip": [
                     {"time": 0, "text": "Setelah kamu mengikuti kisah Lisa"},
                     {"time": 2, "text": "Sekarang saatnya kamu juga berlatih sendiri di rumah."},
@@ -271,7 +271,7 @@ materi_data = {
         "judul_audio2": "Audio Latihan Mindful Stretching",
         "audio2": "assets/audio panduan/Psidamai 2. Mindful Stretching.mp3",
         "audio": [
-            {"src": "assets/audio/sesi 2/2.1 Damai.mp3", "image": "assets/img/ilustrasi/sesi-2/Session 2.1.jpg",
+            {"src": "assets/audio/sesi 2/2.1 Damai.mp3", "image": "assets/img/ilustrasi/sesi-2/session2-1.jpg",
              "transkrip": [
                     {"time": 0, "text": "Hai, bertemu lagi dengan saya Damai."},
                     {"time": 2, "text": "Selamat datang di Materi 2 dari Perkenalan Mindfulness untuk Mahasiswa."},
@@ -293,7 +293,7 @@ materi_data = {
                     {"time": 66, "text": "Mari lihat bagaimana Lisa mencoba berlatih mindfulness."}
             ]
             },
-            {"src": "assets/audio/sesi 2/2.2 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-2/Session 2.2.jpg",
+            {"src": "assets/audio/sesi 2/2.2 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-2/session2-2.JPG",
              "transkrip": [
                     {"time": 1, "text": "Seperti yang disampaikan oleh Pak Yudhis"},
                     {"time": 3, "text": "Aku mencoba untuk melakukan latihan Ruang Bernafas 3 Menit"},
@@ -328,7 +328,7 @@ materi_data = {
                     {"time": 106, "text": "Aku bisa meluangkan waktu beberapa menit waktu luang untuk berlatih"}
             ]
             },
-            {"src": "assets/audio/sesi 2/2.3 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-2/Session 2.3.jpg",
+            {"src": "assets/audio/sesi 2/2.3 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-2/session2-3.JPG",
              "transkrip": [
                     {"time": 0, "text": "Jadi aku pun memutuskan untuk pelan-pelan saja"},
                     {"time": 4, "text": "Dan mencoba berlatih tanpa rekaman kapanpun memiliki waktu luang..."},
@@ -363,7 +363,7 @@ materi_data = {
                     {"time": 109, "text": "Sehingga tidak terperangkap dalam pikiran-pikiran yang mengganggu."}
             ]
             },
-            {"src": "assets/audio/sesi 2/2.4 Damai.mp3", "image": "assets/img/ilustrasi/sesi-2/Session 2.4.jpg",
+            {"src": "assets/audio/sesi 2/2.4 Damai.mp3", "image": "assets/img/ilustrasi/sesi-2/session2-4.jpg",
              "transkrip": [
                     {"time": 0, "text": "Hai, kamu tadi sudah melihat bagaimana Lisa mencoba mempraktikkan latihan ruang nafas tiga menit"},
                     {"time": 7, "text": "Dan menerapkan mindfulness dalam kesehariannya."},
@@ -397,7 +397,7 @@ materi_data = {
                     {"time": 108, "text": "Mari kita lihat bagaimana Lisa berlatih keterampilan ini.."}
             ]
             },
-            {"src": "assets/audio/sesi 2/2.5 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-2/Session 2.5.jpg",
+            {"src": "assets/audio/sesi 2/2.5 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-2/session2-5.jpg",
              "transkrip": [
                     {"time": 0, "text": "Saat pertama kali duduk untuk mencoba Mindfulness dalam Bernafas"},
                     {"time": 4, "text": "Aku menemukan bahwa hampir mustahil untukku bisa duduk diam."},
@@ -420,7 +420,7 @@ materi_data = {
                     {"time": 79, "text": "Nah kan, ada pikiran yang muncul!"}
             ]
             },
-            {"src": "assets/audio/sesi 2/2.6 Damai.mp3", "image": "assets/img/ilustrasi/sesi-2/Session 2.6.jpg",
+            {"src": "assets/audio/sesi 2/2.6 Damai.mp3", "image": "assets/img/ilustrasi/sesi-2/session2-6.jpg",
              "transkrip": [
                     {"time": 0, "text": "Pengalaman Lisa adalah hal yang sangat umum terjadi."},
                     {"time": 4, "text": "Jika kamu menemukan bahwa mencoba latihan mindfulness yang baru terasa sulit"},
@@ -442,7 +442,7 @@ materi_data = {
                     {"time": 67, "text": "Lembar kerja, dan rekaman audio di akhir materi."}
             ]
             },
-            {"src": "assets/audio/sesi 2/2.7 Damai.mp3", "image": "assets/img/ilustrasi/sesi-2/Session 2.7.jpg",
+            {"src": "assets/audio/sesi 2/2.7 Damai.mp3", "image": "assets/img/ilustrasi/sesi-2/session2-7.jpg",
              "transkrip": [
                     {"time": 0, "text": "Mari simpulkan poin-poin penting dari materi kali ini."},
                     {"time": 4, "text": "Di Materi ini, kamu telah belajar mengenai latihan mindfulness yang dinamakan"},
@@ -490,7 +490,7 @@ materi_data = {
         "judul_audio2": "Audio Mindfulness Berjalan dengan Penuh Kesadaran",
         "audio2": "assets/audio panduan/Psidamai 3. Mindful Walking.mp3",
         "audio": [
-            {"src": "assets/audio/sesi 3/3.1 Damai dan Lisa.mp3", "image": "assets/img/ilustrasi/sesi-3/Ilustrasi 3.1.jpg",
+            {"src": "assets/audio/sesi 3/3.1 Damai dan Lisa.mp3", "image": "assets/img/ilustrasi/sesi-3/session3-1.jpg",
              "transkrip": [
                     {"time": 0, "text": "Selanjutnya"},
                     {"time": 1, "text": "Dalam materi ini kamu akan belajar tentang"},
@@ -520,7 +520,7 @@ materi_data = {
                     {"time": 88, "text": "Dalam hari-hariku, dan semuanya sudah terasa sangat membantu.."}
             ]
             },
-            {"src": "assets/audio/sesi 3/3.2 Damai.mp3", "image": "assets/img/ilustrasi/sesi-3/Ilustrasi 3.2.jpg",
+            {"src": "assets/audio/sesi 3/3.2 Damai.mp3", "image": "assets/img/ilustrasi/sesi-3/session3-2.jpg",
              "transkrip": [
                     {"time": 0, "text": "Latihan mindfulness memang merupakan hal yang menantang."},
                     {"time": 5, "text": "Dan dalam materi kali ini, kamu akan belajar mengenai"},
@@ -553,7 +553,7 @@ materi_data = {
                     {"time": 119, "text": "Dan bahwa perasaan yang kita rasakan akan surut seiring dengan berjalannya waktu."}
             ]
              },
-            {"src": "assets/audio/sesi 3/3.3 Damai.mp3", "image": "assets/img/ilustrasi/sesi-3/Ilustrasi 3.3.jpg",
+            {"src": "assets/audio/sesi 3/3.3 Damai.mp3", "image": "assets/img/ilustrasi/sesi-3/session3-3.jpg",
              "transkrip": [
                     {"time": 0, "text": "Ketiga adalah rasa kantuk, yaitu perasaan lesu yang disertai dengan kondisi mental yang kurang waspada."},
                     {"time": 9, "text": "Hal ini bisa timbul dari kelelahan fisik"},
@@ -574,7 +574,7 @@ materi_data = {
                     {"time": 82, "text": "Terutama untuk kesulitan-kesulitan yang telah kamu hadapi di dalam latihan mindfulness."}
             ]
             },
-            {"src": "assets/audio/sesi 3/3.4 Damai dan Lisa.mp3", "image": "assets/img/ilustrasi/sesi-3/Ilustrasi 3.4.jpg",
+            {"src": "assets/audio/sesi 3/3.4 Damai dan Lisa.mp3", "image": "assets/img/ilustrasi/sesi-3/session3-4.jpg",
              "transkrip": [
                     {"time": 0, "text": "Selanjutnya,..dalam materi ini kamu akan belajar tentang"},
                     {"time": 5, "text": "Mendengarkan tubuhmu dan memusatkan perhatian pada berbagai sensasi berbeda"},
@@ -602,7 +602,7 @@ materi_data = {
                     {"time": 116, "text": "Instruksi suaranya membantu, tapi…"}
             ]
             },
-            {"src": "assets/audio/sesi 3/3.5 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-3/Ilustrasi 3.5.jpg",
+            {"src": "assets/audio/sesi 3/3.5 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-3/session3-5.jpg",
              "transkrip": [
                     {"time": 0, "text": "Pada awalnya, aku merasa aneh.."},
                     {"time": 4, "text": "Hmm..apakah ini wajar?"},
@@ -625,7 +625,7 @@ materi_data = {
                     {"time": 70, "text": "Latihan ini membantuku untuk berlatih mindfulness juga."}
             ]
             },
-            {"src": "assets/audio/sesi 3/3.6 Damai.mp3", "image": "assets/img/ilustrasi/sesi-3/Ilustrasi 3.6.jpg",
+            {"src": "assets/audio/sesi 3/3.6 Damai.mp3", "image": "assets/img/ilustrasi/sesi-3/session3-6.jpg",
              "transkrip": [
                     {"time": 0, "text": "Menjaga fokus dalam latihan mindfulness memang bukan hal yang mudah.."},
                     {"time": 5, "text": "Lisa menemukan bahwa melakukan latihan Mindful Stretching "},
@@ -657,7 +657,7 @@ materi_data = {
                     {"time": 122, "text": "Mari kita rangkum poin-poin pentingnya…"}
             ]
              },
-            {"src": "assets/audio/sesi 3/3.7 Damai.mp3", "image": "assets/img/ilustrasi/sesi-3/Ilustrasi 3.7.jpg",
+            {"src": "assets/audio/sesi 3/3.7 Damai.mp3", "image": "assets/img/ilustrasi/sesi-3/session3-7.jpg",
              "transkrip": [
                     {"time": 0, "text": "Sejauh ini, kamu sudah mempelajari bagaimana cara-cara untuk menjadi mindful "},
                     {"time": 6, "text": "Dengan menyadari berbagai sensasi fisik, yaitu melalui body scan…"},
@@ -701,7 +701,7 @@ materi_data = {
         "judul_audio2": "Audio mindfulness untuk Menghadapi Kesulitan",
         "audio2": "assets/audio panduan/Psidamai 4. Mindfulness for Difficulties.mp3",
         "audio": [
-            {"src": "assets/audio/sesi 4/4.1 Damai.mp3", "image": "assets/img/ilustrasi/sesi-4/Ilustrasi 4.1.jpg",
+            {"src": "assets/audio/sesi 4/4.1 Damai.mp3", "image": "assets/img/ilustrasi/sesi-4/session4-1.jpg",
              "transkrip": [
                     {"time": 0, "text": "Selamat datang di Materi 4!"},
                     {"time": 2, "text": "Ini adalah materi terakhir di dalam Program Perkenalan Mindfulness untuk Mahasiswa."},
@@ -739,7 +739,7 @@ materi_data = {
                     {"time": 147, "text": "Dan berlatih untuk bersabar dengan diri sendiri"}
             ]
             },
-            {"src": "assets/audio/sesi 4/4.2 Damai.mp3", "image": "assets/img/ilustrasi/sesi-4/Ilustrasi 4.2.jpg",
+            {"src": "assets/audio/sesi 4/4.2 Damai.mp3", "image": "assets/img/ilustrasi/sesi-4/session4-2.jpg",
              "transkrip": [
                     {"time": 0, "text": "Latihan berikutnya yang ingin kami kenalkan di sesi ini adalah"},
                     {"time": 5, "text": "Mindfulness untuk Mengatasi Ketidaknyamanan."},
@@ -770,7 +770,7 @@ materi_data = {
                     {"time": 145, "text": "Nah, mari sekarang kita lihat bagaimana keadaan Lisa."}
             ]
             },
-            {"src": "assets/audio/sesi 4/4.3 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-4/Ilustrasi 4.3.jpg",
+            {"src": "assets/audio/sesi 4/4.3 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-4/session4-3.jpg",
              "transkrip": [
                     {"time": 0, "text": "Meskipun aku sudah memahami prinsip-psinsip mindfulness dan apa yang perlu aku lakukan untuk berlatih"},
                     {"time": 7, "text": "kadangkala ada saja hal-hal yang menghalangi..."},
@@ -811,7 +811,7 @@ materi_data = {
                     {"time": 173, "text": "“Tarik nafas...”"}
             ]
             },
-            {"src": "assets/audio/sesi 4/4.4 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-4/Ilustrasi 4.4.jpg",
+            {"src": "assets/audio/sesi 4/4.4 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-4/session4-4.jpg",
              "transkrip": [
                     {"time": 0, "text": "Aku juga berlatih untuk mulai berfokus tidak hanya pada nafas"},
                     {"time": 5, "text": "namun mencoba untuk menjadi mindful pada semua rasa lain yang aku rasakan...."},
@@ -836,7 +836,7 @@ materi_data = {
                     {"time": 95, "text": "Rasanya menjadi lebih mudah dan tidak begitu membebani untuk menggunakannya dalam kehidupan aku sehari-hari."}
             ]
             },
-            {"src": "assets/audio/sesi 4/4.5 Damai.mp3", "image": "assets/img/ilustrasi/sesi-4/Ilustrasi 4.5.jpg",
+            {"src": "assets/audio/sesi 4/4.5 Damai.mp3", "image": "assets/img/ilustrasi/sesi-4/session4-5.jpg",
              "transkrip": [
                     {"time": 0, "text": "Dan aku berlatih untuk memfokuskan perhatian penuh "},
                     {"time": 4, "text": "Dan menjadi lebih terlibat dalam apa yang sedang aku lakukan sepanjang hari..."},
@@ -859,7 +859,7 @@ materi_data = {
                     {"time": 77, "text": "dan itu membantu mengurangi stress yang aku rasakan.."}
             ]
             },
-            {"src": "assets/audio/sesi 4/4.6 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-4/Ilustrasi 4.6.jpg",
+            {"src": "assets/audio/sesi 4/4.6 Lisa.mp3", "image": "assets/img/ilustrasi/sesi-4/session4-6.jpg",
              "transkrip": [
                     {"time": 0, "text": "Semua kerja keras yang aku lakukan dalam berlatih untuk hadir di saat ini mulai memberi hasil."},
                     {"time": 7, "text": "Rasanya menjadi lebih mudah bagiku untuk berada “disini dan saat ini”"},
@@ -878,7 +878,7 @@ materi_data = {
                     {"time": 74, "text": "Aku harap kamu telah belajar dari pengalamanku juga, dan semoga kamu bisa melakukan latihanmu dengan baik! "}
             ]
             },
-            {"src": "assets/audio/sesi 4/4.7 Damai.mp3", "image": "assets/img/ilustrasi/sesi-4/Ilustrasi 4.7.jpg",
+            {"src": "assets/audio/sesi 4/4.7 Damai.mp3", "image": "assets/img/ilustrasi/sesi-4/session4-7.jpg",
              "transkrip": [
                     {"time": 0, "text": "Sebelum saya menutup sesi ini, perlu selalu diingat bahwa…"},
                     {"time": 6, "text": "Mindfulness bukanlah Aktivitas ‘melamun’ atau melarikan diri dari kenyataan"},
@@ -932,7 +932,7 @@ def materi_details(materi_id):
 @program_details_.route('/save-status',  methods=["POST"])
 def save_status():
     email = request.form['email']
-    program = "Perkenalan Mindfullness Untuk Mahasiswa"
+    program = "Perkenalan Mindfulness Untuk Mahasiswa"
     materi = request.form['materi']
     status = request.form['status']
     riwayat = datetime.now().strftime("%Y/%m/%d %H:%M:%S")

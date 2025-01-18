@@ -7,19 +7,19 @@ program_content_ = Blueprint('program_content', __name__)
 materi_data = {
     "1": {
         "judul": "Sesi 1 - Menjadi Sadar",
-        "image": "assets/img/ilustrasi/sesi-1/Session 1.1.jpg",
+        "image": "assets/img/ilustrasi/sesi-1/session1-1.jpg",
     },
     "2": {
         "judul": "Sesi 2 - Memahami Pikiran Kamu",
-        "image": "assets/img/ilustrasi/sesi-2/Session 2.1.jpg",
+        "image": "assets/img/ilustrasi/sesi-2/session2-1.jpg",
     },
     "3": {
         "judul": "Sesi 3 - Mengenali Hambatan dan Mendengarkan Tubuh",
-        "image": "assets/img/ilustrasi/sesi-3/Ilustrasi 3.1.jpg",
+        "image": "assets/img/ilustrasi/sesi-3/session3-1.jpg",
     },
     "4": {
         "judul": "Sesi 4 - Mindfulness dalam Keseharian",
-        "image": "assets/img/ilustrasi/sesi-4/Ilustrasi 4.1.jpg",
+        "image": "assets/img/ilustrasi/sesi-4/session4-1.jpg",
     }
 }
 

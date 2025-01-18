@@ -42,7 +42,7 @@
     <!-- Validation and AJAX Logic -->
     <script>
       function is_nickname(asValue) {
-        var regExp = /^(?=.*[a-zA-Z])[-a-zA-Z0-9_.]{2,10}$/;
+        var regExp = /^(?=.*[a-zA-Z])(?=.*\d)[a-zA-Z\d]{4,}$/;
         return regExp.test(asValue);
       }
 
@@ -95,7 +95,7 @@
         } else if (!is_password(password)) {
           $("#helpPassword")
             .text(
-              "Penulisan password harus menggunakan kombinasi angka, minimal 8-20 karakter!."
+              "Penulisan password harus menggunakan kombinasi angka, minimal 8-20 karakter!"
             )
             .addClass("is-danger");
           $("#password").focus();
@@ -155,13 +155,6 @@
     class="img js-fullheight"
     style="background-image: url(../static/assets/img/bg-login.jpg)"
   >
-    <!-- Ikon Previous ke Home -->
-    <div class="position-absolute top-0 start-0 m-3">
-      <a href="/login" class="btn btn-success d-flex align-items-center">
-        <i class="bi bi-arrow-left me-2"></i>
-      </a>
-    </div>
-
     <section class="ftco-section">
       <div class="container">
         <div class="row justify-content-center">
